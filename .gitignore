@@ -1,0 +1,6 @@
+.vscode/
+api.js
+director.js
+config.bat
+.env
+.env.local
