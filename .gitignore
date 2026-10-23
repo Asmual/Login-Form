@@ -2,3 +2,8 @@ api.js
 director.js
 config.bat
 node_modules
+
+*.orc
+*.eot
+.env*.local
+*.env
