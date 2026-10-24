@@ -7,3 +7,11 @@ node_modules
 *.eot
 .env*.local
 *.env
+
+run.bat
+git.txt
+myGit.txt
+AGENTS.md
+CLAUDE.md
+.agent*
+.cloud*
